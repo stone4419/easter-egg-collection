@@ -28,7 +28,6 @@ module.exports = {
   joker: joker(),
   mario: mario(),
   fox: fox(),
-  jump: jump(),
   tank: tank(),
   winner: winner(),
   handsome: handsome(),
@@ -58,8 +57,7 @@ module.exports = {
   haha: haha(),
   kumamon: kumamon(),
   unicorn: unicorn(),
-  wink: wink(),
-  hi: hi()
+  wink: wink()
 }
 
 function pikachu() {
